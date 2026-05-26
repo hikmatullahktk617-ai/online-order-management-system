@@ -44,7 +44,7 @@ Technology USED:
 5. GITHUB
 6. ER DIAGRAM (ERD PLUS/lucid chart)
 7. normalization
-
+8. Denormalization
 
 
 
