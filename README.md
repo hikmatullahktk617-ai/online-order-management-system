@@ -43,7 +43,7 @@ Technology USED:
 4. GIT
 5. GITHUB
 6. ER DIAGRAM (ERD PLUS/lucid chart)
-
+7. normalization
 
 
 
