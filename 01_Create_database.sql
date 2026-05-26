@@ -1,4 +1,4 @@
-Create Database OnlineOrderDB;
+Create Database;
 GO
 USE OnlineOrderDB;
 GO
