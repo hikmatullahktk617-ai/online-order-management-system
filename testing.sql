@@ -1,0 +1,1 @@
+hello this testing.sql file is used for testing purposes. It contains various SQL queries and statements to validate the functionality of the database system. The file includes sample data insertion, selection, updating, and deletion operations to ensure that the database behaves as expected under different scenarios.
