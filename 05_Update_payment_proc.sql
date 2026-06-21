@@ -25,5 +25,5 @@ GO
 
 Exec Update_payment_proc @ORDERID = 1, @PAYMENTstatus = 'Paid';
 
-Select * from Payments where OrderID = 1;
-Select * from Orders where OrderID = 1;
+Select PaymentID, OrderID, PaymentStatus, PaymentDate from Payments where OrderID = 1;
+Select  OrderID, CustomerID, OrderStatus from Orders where OrderID = 1;
